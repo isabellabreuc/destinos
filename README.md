@@ -1,3 +1,3 @@
-# destinos
+# Destinos
 
 Tu viaje soñado
